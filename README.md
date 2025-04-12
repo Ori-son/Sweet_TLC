@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sweet T.
-- 👀 I’m interested in transformers, llm's, NLP, Machine and Deep Learning.
+- 👀 I’m interested in  
 - 🌱 I’m currently learning, like a newborn to this dev world
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? By being kind, curious and truthful
